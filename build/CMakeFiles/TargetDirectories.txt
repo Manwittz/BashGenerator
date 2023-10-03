@@ -1,0 +1,3 @@
+/Users/roshi/Documents/GitHub/BashGenerator/build/CMakeFiles/Main.dir
+/Users/roshi/Documents/GitHub/BashGenerator/build/CMakeFiles/edit_cache.dir
+/Users/roshi/Documents/GitHub/BashGenerator/build/CMakeFiles/rebuild_cache.dir
